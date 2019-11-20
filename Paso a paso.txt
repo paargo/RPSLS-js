@@ -1,0 +1,8 @@
+Paso a paso de tp
+
+0) Traduccion y refinamiento de margin
+1) Convertir de JS a TS seleccionando todo con la funcion toTypeScript()
+2) Crear clase Opcion y generar el constructor
+3) Crear Getters y Setters de cada atributo
+4) Definir los 5 objetos de Opcion
+5) BUSCAR CREADOR DE CONSTRUCTOR
